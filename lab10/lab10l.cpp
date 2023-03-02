@@ -1,0 +1,19 @@
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <cmath>
+#include <vector>
+using namespace std;
+int main(){
+  int n;
+  cin>>n;
+  vector<int> v;
+  for(int i=1;i<=n;i++)
+  {
+    for(int j=1;j<=i;j++)
+    {
+      cout<<i<<" ";
+    }
+  }
+  return 0;
+}

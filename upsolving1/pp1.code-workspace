@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "pp1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
